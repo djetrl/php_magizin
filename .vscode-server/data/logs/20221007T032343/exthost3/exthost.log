@@ -1,0 +1,15 @@
+[2022-10-07 03:29:35.304] [exthost] [info] Extension host with pid 469053 started
+[2022-10-07 03:29:35.343] [exthost] [info] Lock '/home/aleksie/.vscode-server/data/User/workspaceStorage/3a83d54547e86d7dfb5260917eb572a0/vscode.lock': Lock acquired.
+[2022-10-07 03:29:35.563] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-10-07 03:29:35.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-07 03:29:35.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-07 03:29:35.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-07 03:29:37.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-07 03:29:37.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-07 03:29:37.865] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-07 03:29:37.915] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-07 03:29:37.934] [exthost] [info] Eager extensions activated
+[2022-10-07 03:30:44.800] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2022-10-07 07:01:25.814] [exthost] [info] Extension host terminating: renderer disconnected for too long (1)
+[2022-10-07 07:01:25.827] [exthost] [info] Lock '/home/aleksie/.vscode-server/data/User/workspaceStorage/3a83d54547e86d7dfb5260917eb572a0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-07 07:01:25.877] [exthost] [info] Extension host with pid 469053 exiting with code 0

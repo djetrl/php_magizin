@@ -1,0 +1,50 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.smoothScrolling": true,
+    "editor.fontSize": 15,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.tabSize": 2,
+    "files.defaultLanguage": "html",
+    "editor.detectIndentation": false,
+    "editor.folding": false,
+    "editor.parameterHints.enabled": false,
+    "editor.hover.enabled": false,
+    "terminal.integrated.fontSize": 15,
+    "ecsstractor_port.add_comment": false,
+    "ecsstractor_port.empty_line_before_nested_selector": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "emmet.extensionsPath": [
+      "~\\AppData\\Roaming\\code\\User\\emmet"
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.autofetch": true,
+    "files.associations": {
+      "COMMIT_EDITMSG": "bibtex",
+      "*.scss": "scss"
+    },
+    "[scss]": {
+      "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter",
+
+    },
+    "liveSassCompile.settings.generateMap":false,
+    "liveSassCompile.settings.formats":[
+      {
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "/"
+      }
+    ],
+    "liveSassCompile.settings.autoprefix": [
+    
+    ],
+    "git.enableSmartCommit": true,
+    "workbench.editorAssociations": {
+      "*.svg": "default"
+    },
+    "window.zoomLevel": 1,
+    "remote.SSH.remotePlatform": {
+      "217.71.129.139": "linux"
+    }
+    
+}

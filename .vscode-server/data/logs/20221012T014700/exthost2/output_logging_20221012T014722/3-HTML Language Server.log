@@ -1,0 +1,108 @@
+[Error - 1:58:36 AM] Error while computing completions for file:///home/aleksie/login.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1207501)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754586
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754607)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753474
+    at Object.next (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753579)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752515
+    at new Promise (<anonymous>)
+    at j (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752260)
+    at e.computeCompletions (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753942)
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:757720)
+[Error - 1:58:37 AM] Error while computing completions for file:///home/aleksie/login.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1207501)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754586
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754607)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753474
+    at Object.next (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753579)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752515
+    at new Promise (<anonymous>)
+    at j (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752260)
+    at e.computeCompletions (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753942)
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:757720)
+[Error - 1:58:39 AM] Error while computing completions for file:///home/aleksie/login.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1207501)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754586
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754607)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753474
+    at Object.next (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753579)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752515
+    at new Promise (<anonymous>)
+    at j (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752260)
+    at e.computeCompletions (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753942)
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:757720)
+[Error - 1:58:39 AM] Error while computing completions for file:///home/aleksie/login.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1207501)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754586
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754607)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753474
+    at Object.next (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753579)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752515
+    at new Promise (<anonymous>)
+    at j (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752260)
+    at e.computeCompletions (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753942)
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:757720)
+[Error - 1:58:41 AM] Error while computing completions for file:///home/aleksie/login.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1207501)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754586
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754607)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753474
+    at Object.next (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753579)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752515
+    at new Promise (<anonymous>)
+    at j (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752260)
+    at e.computeCompletions (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753942)
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:757720)
+[Error - 1:58:42 AM] Error while computing completions for file:///home/aleksie/login.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1207501)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754586
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754607)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753474
+    at Object.next (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753579)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752515
+    at new Promise (<anonymous>)
+    at j (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752260)
+    at e.computeCompletions (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753942)
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:757720)
+[Error - 1:58:42 AM] Error while computing completions for file:///home/aleksie/login.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1207501)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754586
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754607)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753474
+    at Object.next (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753579)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752515
+    at new Promise (<anonymous>)
+    at j (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752260)
+    at e.computeCompletions (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753942)
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:757720)
+[Error - 1:58:43 AM] Error while computing completions for file:///home/aleksie/login.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1207501)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754586
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754607)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753474
+    at Object.next (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753579)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752515
+    at new Promise (<anonymous>)
+    at j (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752260)
+    at e.computeCompletions (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753942)
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:757720)
+[Error - 1:58:43 AM] Error while computing completions for file:///home/aleksie/login.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at Object.e.create (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1207501)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754586
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:754607)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753474
+    at Object.next (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753579)
+    at /home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752515
+    at new Promise (<anonymous>)
+    at j (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:752260)
+    at e.computeCompletions (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:753942)
+    at e.<anonymous> (/home/aleksie/.vscode-server/bin/64bbfbf67ada9953918d72e1df2f4d8e537d340e/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:757720)

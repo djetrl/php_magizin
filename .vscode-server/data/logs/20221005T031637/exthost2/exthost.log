@@ -1,0 +1,17 @@
+[2022-10-05 03:36:48.241] [exthost] [info] Extension host with pid 455914 started
+[2022-10-05 03:36:48.250] [exthost] [error] Error: EEXIST: file already exists, open '/home/aleksie/.vscode-server/data/User/workspaceStorage/3a83d54547e86d7dfb5260917eb572a0/vscode.lock'
+[2022-10-05 03:36:48.266] [exthost] [info] Lock '/home/aleksie/.vscode-server/data/User/workspaceStorage/3a83d54547e86d7dfb5260917eb572a0/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-10-05 03:36:48.276] [exthost] [info] Lock '/home/aleksie/.vscode-server/data/User/workspaceStorage/3a83d54547e86d7dfb5260917eb572a0/vscode.lock': The lock does not look stale, elapsed: 991 ms, giving up.
+[2022-10-05 03:36:48.285] [exthost] [info] Lock '/home/aleksie/.vscode-server/data/User/workspaceStorage/3a83d54547e86d7dfb5260917eb572a0-1/vscode.lock': Lock acquired.
+[2022-10-05 03:36:57.324] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-10-05 03:36:57.374] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-05 03:36:57.384] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-05 03:36:57.394] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-05 03:36:59.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-05 03:36:59.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-05 03:37:00.336] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 03:37:00.363] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 03:37:00.369] [exthost] [info] Eager extensions activated
+[2022-10-05 03:44:36.959] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-05 03:44:36.962] [exthost] [info] Lock '/home/aleksie/.vscode-server/data/User/workspaceStorage/3a83d54547e86d7dfb5260917eb572a0-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-05 03:44:36.994] [exthost] [info] Extension host with pid 455914 exiting with code 0

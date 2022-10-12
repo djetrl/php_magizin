@@ -1,0 +1,12 @@
+[2022-10-06 13:33:45.667] [exthost] [info] Extension host with pid 465162 started
+[2022-10-06 13:33:46.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-10-06 13:33:46.291] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-06 13:33:46.304] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-06 13:33:46.334] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-06 13:33:46.680] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-06 13:33:46.902] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-06 13:33:47.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 13:33:47.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-06 13:33:47.318] [exthost] [info] Eager extensions activated
+[2022-10-06 13:37:50.885] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-06 13:37:50.932] [exthost] [info] Extension host with pid 465162 exiting with code 0

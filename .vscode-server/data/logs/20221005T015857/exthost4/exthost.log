@@ -1,0 +1,18 @@
+[2022-10-05 02:20:12.322] [exthost] [info] Extension host with pid 453294 started
+[2022-10-05 02:20:12.377] [exthost] [info] Lock '/home/aleksie/.vscode-server/data/User/workspaceStorage/3a83d54547e86d7dfb5260917eb572a0/vscode.lock': Lock acquired.
+[2022-10-05 02:20:12.515] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2022-10-05 02:20:13.133] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-05 02:20:13.138] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-05 02:20:13.144] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-05 02:20:13.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-05 02:20:13.596] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-05 02:20:14.566] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 02:20:14.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-05 02:20:14.634] [exthost] [info] Eager extensions activated
+[2022-10-05 02:20:15.711] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-05 02:20:15.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-05 02:20:15.962] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-05 02:54:08.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+[2022-10-05 02:57:02.504] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-05 02:57:02.506] [exthost] [info] Lock '/home/aleksie/.vscode-server/data/User/workspaceStorage/3a83d54547e86d7dfb5260917eb572a0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-05 02:57:02.607] [exthost] [info] Extension host with pid 453294 exiting with code 0
