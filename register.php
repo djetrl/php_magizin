@@ -17,7 +17,9 @@ $result = '';
 if (!empty($_GET['login']) && !empty($_GET['password'])) {
     $login = $_GET['login'];
     $password = $_GET['password'];
-
+    f (pas != pas2) {
+alert('Пароли не совпадают')
+}
     $sql = sprintf('INSERT INTO `users` (`LOGIN` , `PASSW`) VALUES(\'%s\', \'%s\')',$login, $password) ;
     $db->exec($sql);
     
